@@ -1,0 +1,22 @@
+ticker,company,exchange,sector,industry
+NVDA,NVIDIA Corp.,NASDAQ,Technology,Semiconductors
+PLTR,Palantir Technologies Inc.,NYSE,Technology,Software - Infrastructure
+RKLB,Rocket Lab USA Inc.,NASDAQ,Industrials,Aerospace & Defense
+AAPL,Apple Inc.,NASDAQ,Technology,Consumer Electronics
+MSFT,Microsoft Corp.,NASDAQ,Technology,Software - Infrastructure
+META,Meta Platforms Inc.,NASDAQ,Communication Services,Internet Content
+AMZN,Amazon.com Inc.,NASDAQ,Consumer Cyclical,Internet Retail
+GOOGL,Alphabet Inc.,NASDAQ,Communication Services,Internet Content
+TSLA,Tesla Inc.,NASDAQ,Consumer Cyclical,Auto Manufacturers
+AMD,Advanced Micro Devices Inc.,NASDAQ,Technology,Semiconductors
+AVGO,Broadcom Inc.,NASDAQ,Technology,Semiconductors
+CRWD,CrowdStrike Holdings Inc.,NASDAQ,Technology,Software - Infrastructure
+NET,Cloudflare Inc.,NYSE,Technology,Software - Infrastructure
+DDOG,Datadog Inc.,NASDAQ,Technology,Software - Application
+SHOP,Shopify Inc.,NASDAQ,Technology,Software - Application
+ELF,e.l.f. Beauty Inc.,NYSE,Consumer Defensive,Household & Personal Products
+CELH,Celsius Holdings Inc.,NASDAQ,Consumer Defensive,Beverages
+UBER,Uber Technologies Inc.,NYSE,Technology,Software - Application
+COIN,Coinbase Global Inc.,NASDAQ,Financial Services,Capital Markets
+SMCI,Super Micro Computer Inc.,NASDAQ,Technology,Computer Hardware
+BADTICKER,Bad Test Symbol,NASDAQ,Diagnostics,Invalid
